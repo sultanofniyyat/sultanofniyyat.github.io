@@ -1,2 +1,1 @@
-# app-ads.txt for Sultan of Niyyat apps
-# The Google AdMob line is added here once the AdMob account is set up.
+google.com, pub-9463842132653349, DIRECT, f08c47fec0942fa0
