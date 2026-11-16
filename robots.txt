@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sultanofniyyat.github.io/gobbly-io/sitemap.xml
